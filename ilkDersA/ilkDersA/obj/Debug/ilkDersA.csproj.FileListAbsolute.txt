@@ -1,0 +1,13 @@
+C:\Users\Lab1-Ter\Documents\Windows Forms\ilkDersA\ilkDersA\obj\Debug\ilkDersA.csproj.AssemblyReference.cache
+C:\Users\Lab1-Ter\Documents\Windows Forms\ilkDersA\ilkDersA\obj\Debug\ilkDersA.Form1.resources
+C:\Users\Lab1-Ter\Documents\Windows Forms\ilkDersA\ilkDersA\obj\Debug\ilkDersA.Properties.Resources.resources
+C:\Users\Lab1-Ter\Documents\Windows Forms\ilkDersA\ilkDersA\obj\Debug\ilkDersA.csproj.GenerateResource.cache
+C:\Users\Lab1-Ter\Documents\Windows Forms\ilkDersA\ilkDersA\obj\Debug\ilkDersA.csproj.CoreCompileInputs.cache
+C:\Users\Lab1-Ter\Documents\Windows Forms\ilkDersA\ilkDersA\bin\Debug\ilkDersA.exe.config
+C:\Users\Lab1-Ter\Documents\Windows Forms\ilkDersA\ilkDersA\bin\Debug\ilkDersA.exe
+C:\Users\Lab1-Ter\Documents\Windows Forms\ilkDersA\ilkDersA\bin\Debug\ilkDersA.pdb
+C:\Users\Lab1-Ter\Documents\Windows Forms\ilkDersA\ilkDersA\obj\Debug\ilkDersA.exe
+C:\Users\Lab1-Ter\Documents\Windows Forms\ilkDersA\ilkDersA\obj\Debug\ilkDersA.pdb
+C:\Users\AYHAN\Desktop\Windows Forms\ilkDersA\ilkDersA\obj\Debug\ilkDersA.csproj.AssemblyReference.cache
+C:\Users\AYHAN\Desktop\Windows Forms\ilkDersA\ilkDersA\obj\Debug\ilkDersA.exe
+C:\Users\AYHAN\Desktop\Windows Forms\ilkDersA\ilkDersA\obj\Debug\ilkDersA.pdb

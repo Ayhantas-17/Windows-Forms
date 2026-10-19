@@ -1,0 +1,10 @@
+C:\Users\AYHAN\Desktop\Windows Forms\ders8\soru2\obj\Debug\soru2.csproj.AssemblyReference.cache
+C:\Users\AYHAN\Desktop\Windows Forms\ders8\soru2\obj\Debug\soru2.Form1.resources
+C:\Users\AYHAN\Desktop\Windows Forms\ders8\soru2\obj\Debug\soru2.Properties.Resources.resources
+C:\Users\AYHAN\Desktop\Windows Forms\ders8\soru2\obj\Debug\soru2.csproj.GenerateResource.cache
+C:\Users\AYHAN\Desktop\Windows Forms\ders8\soru2\obj\Debug\soru2.csproj.CoreCompileInputs.cache
+C:\Users\AYHAN\Desktop\Windows Forms\ders8\soru2\bin\Debug\soru2.exe.config
+C:\Users\AYHAN\Desktop\Windows Forms\ders8\soru2\bin\Debug\soru2.exe
+C:\Users\AYHAN\Desktop\Windows Forms\ders8\soru2\bin\Debug\soru2.pdb
+C:\Users\AYHAN\Desktop\Windows Forms\ders8\soru2\obj\Debug\soru2.exe
+C:\Users\AYHAN\Desktop\Windows Forms\ders8\soru2\obj\Debug\soru2.pdb

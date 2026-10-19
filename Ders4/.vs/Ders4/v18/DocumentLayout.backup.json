@@ -1,0 +1,118 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\AYHAN\\Desktop\\Windows Forms\\Ders4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F5192EFC-D0C1-4B37-AE3B-1D457F688FB0}|Ornek5\\Ornek5.csproj|c:\\users\\ayhan\\desktop\\windows forms\\ders4\\ornek5\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5192EFC-D0C1-4B37-AE3B-1D457F688FB0}|Ornek5\\Ornek5.csproj|solutionrelative:ornek5\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5192EFC-D0C1-4B37-AE3B-1D457F688FB0}|Ornek5\\Ornek5.csproj|c:\\users\\ayhan\\desktop\\windows forms\\ders4\\ornek5\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F5192EFC-D0C1-4B37-AE3B-1D457F688FB0}|Ornek5\\Ornek5.csproj|solutionrelative:ornek5\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{277D8F46-50A3-4CFB-8DA4-1F536104883E}|Ornek3\\Ornek3.csproj|c:\\users\\ayhan\\desktop\\windows forms\\ders4\\ornek3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{277D8F46-50A3-4CFB-8DA4-1F536104883E}|Ornek3\\Ornek3.csproj|solutionrelative:ornek3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D24BBDA-22FA-417E-B578-9FC6C31392C3}|Ornek2\\Ornek2.csproj|c:\\users\\ayhan\\desktop\\windows forms\\ders4\\ornek2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2D24BBDA-22FA-417E-B578-9FC6C31392C3}|Ornek2\\Ornek2.csproj|solutionrelative:ornek2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA704BC7-9F0F-4B43-A975-72AD0D3842D4}|Ornek1\\Ornek1.csproj|c:\\users\\ayhan\\desktop\\windows forms\\ders4\\ornek1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA704BC7-9F0F-4B43-A975-72AD0D3842D4}|Ornek1\\Ornek1.csproj|solutionrelative:ornek1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA704BC7-9F0F-4B43-A975-72AD0D3842D4}|Ornek1\\Ornek1.csproj|c:\\users\\ayhan\\desktop\\windows forms\\ders4\\ornek1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BA704BC7-9F0F-4B43-A975-72AD0D3842D4}|Ornek1\\Ornek1.csproj|solutionrelative:ornek1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\AYHAN\\Desktop\\Windows Forms\\Ders4\\Ornek5\\Form1.cs",
+              "RelativeDocumentMoniker": "Ornek5\\Form1.cs",
+              "ToolTip": "C:\\Users\\AYHAN\\Desktop\\Windows Forms\\Ders4\\Ornek5\\Form1.cs",
+              "RelativeToolTip": "Ornek5\\Form1.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAIAxwBkAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T11:33:37.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\AYHAN\\Desktop\\Windows Forms\\Ders4\\Ornek5\\Form1.cs",
+              "RelativeDocumentMoniker": "Ornek5\\Form1.cs",
+              "ToolTip": "C:\\Users\\AYHAN\\Desktop\\Windows Forms\\Ders4\\Ornek5\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Ornek5\\Form1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T11:33:31.757Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\AYHAN\\Desktop\\Windows Forms\\Ders4\\Ornek3\\Form1.cs",
+              "RelativeDocumentMoniker": "Ornek3\\Form1.cs",
+              "ToolTip": "C:\\Users\\AYHAN\\Desktop\\Windows Forms\\Ders4\\Ornek3\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Ornek3\\Form1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T11:33:21.725Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\AYHAN\\Desktop\\Windows Forms\\Ders4\\Ornek2\\Form1.cs",
+              "RelativeDocumentMoniker": "Ornek2\\Form1.cs",
+              "ToolTip": "C:\\Users\\AYHAN\\Desktop\\Windows Forms\\Ders4\\Ornek2\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Ornek2\\Form1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T11:33:07.71Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\AYHAN\\Desktop\\Windows Forms\\Ders4\\Ornek1\\Form1.cs",
+              "RelativeDocumentMoniker": "Ornek1\\Form1.cs",
+              "ToolTip": "C:\\Users\\AYHAN\\Desktop\\Windows Forms\\Ders4\\Ornek1\\Form1.cs",
+              "RelativeToolTip": "Ornek1\\Form1.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAvwBQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T11:31:53.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\AYHAN\\Desktop\\Windows Forms\\Ders4\\Ornek1\\Form1.cs",
+              "RelativeDocumentMoniker": "Ornek1\\Form1.cs",
+              "ToolTip": "C:\\Users\\AYHAN\\Desktop\\Windows Forms\\Ders4\\Ornek1\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Ornek1\\Form1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T11:09:46.377Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

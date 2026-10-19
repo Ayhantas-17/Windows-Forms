@@ -1,0 +1,10 @@
+C:\Users\Lab1-Ter\Documents\Windows Forms\Ders6\Ornek4-B\bin\Debug\Ornek4-B.exe.config
+C:\Users\Lab1-Ter\Documents\Windows Forms\Ders6\Ornek4-B\bin\Debug\Ornek4-B.exe
+C:\Users\Lab1-Ter\Documents\Windows Forms\Ders6\Ornek4-B\bin\Debug\Ornek4-B.pdb
+C:\Users\Lab1-Ter\Documents\Windows Forms\Ders6\Ornek4-B\obj\Debug\Ornek4-B.csproj.AssemblyReference.cache
+C:\Users\Lab1-Ter\Documents\Windows Forms\Ders6\Ornek4-B\obj\Debug\Ornek4_B.Form1.resources
+C:\Users\Lab1-Ter\Documents\Windows Forms\Ders6\Ornek4-B\obj\Debug\Ornek4_B.Properties.Resources.resources
+C:\Users\Lab1-Ter\Documents\Windows Forms\Ders6\Ornek4-B\obj\Debug\Ornek4-B.csproj.GenerateResource.cache
+C:\Users\Lab1-Ter\Documents\Windows Forms\Ders6\Ornek4-B\obj\Debug\Ornek4-B.csproj.CoreCompileInputs.cache
+C:\Users\Lab1-Ter\Documents\Windows Forms\Ders6\Ornek4-B\obj\Debug\Ornek4-B.exe
+C:\Users\Lab1-Ter\Documents\Windows Forms\Ders6\Ornek4-B\obj\Debug\Ornek4-B.pdb

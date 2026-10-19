@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="soru1/soru1.csproj" />
+  <Project Path="soru2/soru2.csproj" />
+  <Project Path="soru3/soru3.csproj" />
+  <Project Path="soru4/soru4.csproj" />
+  <Project Path="soru5/soru5.csproj" />
+</Solution>

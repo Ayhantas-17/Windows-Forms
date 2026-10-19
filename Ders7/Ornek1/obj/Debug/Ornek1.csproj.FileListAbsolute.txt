@@ -1,0 +1,14 @@
+C:\Users\Lab1-Ter\Documents\Windows Forms\Ders7\Ornek1\bin\Debug\Ornek1.exe.config
+C:\Users\Lab1-Ter\Documents\Windows Forms\Ders7\Ornek1\bin\Debug\Ornek1.exe
+C:\Users\Lab1-Ter\Documents\Windows Forms\Ders7\Ornek1\bin\Debug\Ornek1.pdb
+C:\Users\Lab1-Ter\Documents\Windows Forms\Ders7\Ornek1\obj\Debug\Ornek1.csproj.AssemblyReference.cache
+C:\Users\Lab1-Ter\Documents\Windows Forms\Ders7\Ornek1\obj\Debug\Ornek1.Form1.resources
+C:\Users\Lab1-Ter\Documents\Windows Forms\Ders7\Ornek1\obj\Debug\Ornek1.Properties.Resources.resources
+C:\Users\Lab1-Ter\Documents\Windows Forms\Ders7\Ornek1\obj\Debug\Ornek1.csproj.GenerateResource.cache
+C:\Users\Lab1-Ter\Documents\Windows Forms\Ders7\Ornek1\obj\Debug\Ornek1.csproj.CoreCompileInputs.cache
+C:\Users\Lab1-Ter\Documents\Windows Forms\Ders7\Ornek1\obj\Debug\Ornek1.exe
+C:\Users\Lab1-Ter\Documents\Windows Forms\Ders7\Ornek1\obj\Debug\Ornek1.pdb
+C:\Users\Lab1-Ter\Documents\Windows Forms\Ders7\Ornek1\obj\Debug\Ornek1.Surec.resources
+C:\Users\Lab1-Ter\Documents\Windows Forms\Ders7\Ornek1\obj\Debug\Ornek1.Matematik.resources
+C:\Users\Lab1-Ter\Documents\Windows Forms\Ders7\Ornek1\obj\Debug\Ornek1.String_Metot.resources
+C:\Users\Lab1-Ter\Documents\Windows Forms\Ders7\Ornek1\obj\Debug\Ornek1.TarihZaman.resources

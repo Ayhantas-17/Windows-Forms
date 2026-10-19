@@ -1,0 +1,13 @@
+C:\Users\Lab1-Ter\Documents\Windows Forms\İlk ders\İlk ders\bin\Debug\İlk ders.exe.config
+C:\Users\Lab1-Ter\Documents\Windows Forms\İlk ders\İlk ders\bin\Debug\İlk ders.exe
+C:\Users\Lab1-Ter\Documents\Windows Forms\İlk ders\İlk ders\bin\Debug\İlk ders.pdb
+C:\Users\Lab1-Ter\Documents\Windows Forms\İlk ders\İlk ders\obj\Debug\İlk ders.csproj.AssemblyReference.cache
+C:\Users\Lab1-Ter\Documents\Windows Forms\İlk ders\İlk ders\obj\Debug\İlk_ders.Form1.resources
+C:\Users\Lab1-Ter\Documents\Windows Forms\İlk ders\İlk ders\obj\Debug\İlk_ders.Properties.Resources.resources
+C:\Users\Lab1-Ter\Documents\Windows Forms\İlk ders\İlk ders\obj\Debug\İlk ders.csproj.GenerateResource.cache
+C:\Users\Lab1-Ter\Documents\Windows Forms\İlk ders\İlk ders\obj\Debug\İlk ders.csproj.CoreCompileInputs.cache
+C:\Users\Lab1-Ter\Documents\Windows Forms\İlk ders\İlk ders\obj\Debug\İlk ders.exe
+C:\Users\Lab1-Ter\Documents\Windows Forms\İlk ders\İlk ders\obj\Debug\İlk ders.pdb
+C:\Users\AYHAN\Desktop\Windows Forms\İlk ders\İlk ders\obj\Debug\İlk ders.csproj.AssemblyReference.cache
+C:\Users\AYHAN\Desktop\Windows Forms\İlk ders\İlk ders\obj\Debug\İlk ders.exe
+C:\Users\AYHAN\Desktop\Windows Forms\İlk ders\İlk ders\obj\Debug\İlk ders.pdb
